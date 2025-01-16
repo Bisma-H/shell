@@ -65,4 +65,5 @@ ls ./data/processed/event_logs >> ./data/inventory.txt
 
 ###########################################
 
+
 echo "Project setup is complete!"
