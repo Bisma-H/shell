@@ -18,6 +18,8 @@ touch analysis/main.py
 curl -Lo rawdata.zip https://github.com/UofT-DSI/shell/raw/refs/heads/main/02_activities/assignments/rawdata.zip
 unzip rawdata.zip
 
+
+
 ###########################################
 # Complete assignment here
 
